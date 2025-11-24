@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Checker</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>Password Strength Checker</h1>
+
+    <div class="password_wrapper">
+        <input 
+            oninput="CheckPassword(this)" 
+            type="password" 
+            id="password" 
+            placeholder="Enter the password"
+        >
+
+        <button id="toggle_btn" onclick="toggleVisibility()">👁️</button>
+    </div>
+
+    <div class="bar_container">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </div>
+
+    <p id="message_text"></p>
+
+</body>
+</html>
