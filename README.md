@@ -3,9 +3,13 @@
 A lightweight client-side password strength analyzer built using HTML, CSS, and JavaScript.
 It evaluates passwords in real time based on:
 Length
+
 Character variety (uppercase, lowercase, numbers, symbols)
+
 Common/blacklisted passwords
+
 Repeated or predictable patterns
+
 Overall calculated strength score
 
 The UI provides immediate visual and textual feedback with:
