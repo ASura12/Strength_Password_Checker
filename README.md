@@ -1,4 +1,4 @@
-🔐 Password Strength Checker
+#🔐 Password Strength Checker
 
 A lightweight client-side password strength analyzer built using HTML, CSS, and JavaScript.
 It evaluates passwords in real time based on:
