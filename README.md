@@ -3,47 +3,47 @@
 A lightweight client-side password strength analyzer built using HTML, CSS, and JavaScript.
 It evaluates passwords in real time based on:
 
-**.**Length
+- Length
 
-Character variety (uppercase, lowercase, numbers, symbols)
+- Character variety (uppercase, lowercase, numbers, symbols)
 
-Common/blacklisted passwords
+- Common/blacklisted passwords
 
-Repeated or predictable patterns
+- Repeated or predictable patterns
 
-Overall calculated strength score
+- Overall calculated strength score
 
 The UI provides immediate visual and textual feedback with:
 
-A 3-level dynamic strength bar
+- A 3-level dynamic strength bar
 
-A detailed message panel describing weaknesses
+- A detailed message panel describing weaknesses
 
-A password visibility toggle
+- A password visibility toggle
 
-A clean, responsive, user-friendly layout
+- A clean, responsive, user-friendly layout
 
 **✨ Features**
 
-🔍 Real-time strength analysis
+- 🔍 Real-time strength analysis
 
-🎨 Color-coded strength bar (Weak → Medium → Strong)
+- 🎨 Color-coded strength bar (Weak → Medium → Strong)
 
-🧠 Smart rule-based scoring
+- 🧠 Smart rule-based scoring
 
-⚠️ Detection of common & repeated passwords
+- ⚠️ Detection of common & repeated passwords
 
-🙈 Show/Hide password visibility toggle
+- 🙈 Show/Hide password visibility toggle
 
-📱 Mobile-friendly responsive design
+- 📱 Mobile-friendly responsive design
 
 **🧰 Tech Stack**
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-Vanilla JavaScript
+- Vanilla JavaScript
 
 **📂 Project Structure**
 
@@ -59,11 +59,11 @@ Vanilla JavaScript
 
 **🚀 How to Use**
 
-Open index.html in any browser.
+- Open index.html in any browser.
 
-Start typing a password.
+- Start typing a password.
 
-Watch the strength bar and feedback update instantly.
+- Watch the strength bar and feedback update instantly.
 
 **📜 License**
 
